@@ -2492,6 +2492,20 @@ select:focus::-webkit-input-placeholder
     }
 }
 
+.vlt-project-title-small
+{
+    font-size: 5.5rem;
+    font-weight: 600;
+    line-height: 1.1;
+}
+@media only screen and (max-width: 767px)
+{
+    .vlt-project-title-small
+    {
+        font-size: 4rem;
+    }
+}
+
 .vlt-project-excerpt
 {
     font-size: .9375rem;
