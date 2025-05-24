@@ -1,0 +1,16 @@
+- untuk manipulasi crud berita menggunakan file .json
+- untuk menampilkan dijadikan 1 halaman padat
+
+- untuk konten akan ada 
+
+SETIAP KONTEN AKAN ADA "LAPOR KODIM TIDAK DIPUNGUT BIAYA"
+
+1 homepage (INFORMASI PUBLIK DAN LAYANAN HARUS ADA DISINI), (foto yang bagus bagus disini)
+2 Informasi Publik / Layanan 
+3 Profil Kodim (organisasi, pemimpin, sejarah, visi misi)
+4 Program dan Kegiatan 
+5 Berita dan Publikasi 
+6 Galeri 
+
+7 Link Terkait dan Mitra Kerja
+8 PERATURAN DAN KEBIJAKAN
